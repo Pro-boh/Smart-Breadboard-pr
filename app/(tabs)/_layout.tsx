@@ -22,6 +22,8 @@ export default function TabLayout() {
           ios: {
             // Use a transparent background on iOS to show the blur effect
             //just changecheck again on main
+            //check on commit 
+          
             position: 'absolute',
           },
           default: {},
